@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../test"
+		},
+		{
+			"path": "../../streamlit-test"
+		},
+		{
+			"path": "../../streamlit-test2"
+		}
+	],
+	"settings": {}
+}
