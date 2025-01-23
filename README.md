@@ -1,4 +1,4 @@
-﻿# Library for reading source files
+# Library for reading source files
 
 ## Description
 This library can convert txt (.txt, .py) and notebook (.ipynb) files containing python source code into strings.
