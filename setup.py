@@ -6,8 +6,7 @@ setup(
     version="0.1.0",   
     packages=find_packages(),  
     install_requires=[  
-        "nbformat",
-        "io",
+        "nbformat"
     ],
     author="Your Name",
     author_email="your.email@example.com",
