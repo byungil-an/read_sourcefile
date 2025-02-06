@@ -13,4 +13,11 @@ This library can convert txt (.txt, .py) and notebook (.ipynb) files containing 
 - read_txtfile(file_obj)
   - Input:file_obj⇒Objects such as file objects and io.BytesIO.
   - Return:text⇒character string
-
+- get_file_from_github(github_url,token)
+  - Input:
+	github_url⇒Source code URL on github
+	token⇒User's github api token
+  - Return:text⇒character string
+- extract_code_and_comments_from_ipynb(ipynb_content)
+  - Input:ipynb_content⇒ipynb file object in notebook format
+  - Return:text⇒character string
